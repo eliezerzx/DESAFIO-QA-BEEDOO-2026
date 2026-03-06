@@ -117,6 +117,12 @@ Acesse a planilha no link abaixo:
 
 **[PLANILHA GOOGLE SHEETS](https://docs.google.com/spreadsheets/d/1PUgbj_Kmz_ygddUCnLfPJrI9pRmUHJnqLWEogOQSQsA/edit?usp=sharing)**
 
+## Documentação Complementar
+
+A documentação detalhada da análise e estratégia de testes pode ser acessada no link abaixo:
+
+(https://docs.google.com/document/d/1KBcxB-Jn1RjmkWpOPQ6iAASHfk7DNu1xUtf5nsLNovM/edit?usp=sharing)
+
 ---
 
 # 🐞 Registro de bugs
